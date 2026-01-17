@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Tests](https://github.com/gender-api/gender-api-client-python/actions/workflows/tests.yml/badge.svg)](https://github.com/gender-api/gender-api-client-python/actions)
+[![Tests](https://github.com/markus-perl/gender-api-client-python/actions/workflows/tests.yml/badge.svg)](https://github.com/markus-perl/gender-api-client-python/actions/workflows/tests.yml)
 
 A modern, type-safe Python client for the [Gender-API.com](https://gender-api.com) service. Determine gender from first names, full names, or email addresses with high accuracy across 200+ countries.
 
